@@ -14,5 +14,16 @@
 * **Client-Focused** : The project's ultimate goal is to assist the Health Management Organization in making informed decisions to enhance their healthcare cost management and planning strategies.
 
 
+## Exploratory Data Analysis and Preprocessing.
+* Dealing with missing data points: we removed 158 missing data points in bmi and hypertension variables.
+* Inspecting the data set: There are 7,502 examples with 14 features related to personal health information (cost, age, bmi, number of children, and etc.).
+* Performing binning and transformation on variables 
+    * Numeric to Categorical: age, bmi
+    * Categorical to Logical: education level, the number of children
+* Setting the boundary for expensive or not expensive : Since our target value was highly skewed we opted for 3rd quatile as threshold  since **97%** of people were inside this quartile to convert the numerical values into Categorical values. So people whose cost was above 4775 were labelled as **Expensive** , while people with charges below were labelled as  **Not_Expensive**
+
+
+
+
 
 
