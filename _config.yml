@@ -14,11 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Chinmay Maganur # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Unleashing Data's Potential, One Algorithm at a Time,
+Transforming Insights into Innovation, and Leading the Way to Informed Decisions.
 
-description: >- # used by seo meta and the atom feed
+description: >-Graduate Student of Applied Data Science at Syracuse University # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -37,9 +38,14 @@ social:
   name: Chinmay Maganur
   email: camaganu@syr.edu # change to your email address
   links:
-    # The first element serves as the copyright owner's link
+      https://github.com/chinmay002
+      https://www.linkedin.com/in/chinmay-maganur
+
+
+    
+# The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+     # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
