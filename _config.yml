@@ -38,8 +38,8 @@ social:
   name: Chinmay Maganur
   email: camaganu@syr.edu # change to your email address
   links:
-      https://github.com/chinmay002
-      https://www.linkedin.com/in/chinmay-maganur
+      - https://github.com/chinmay002
+      - https://www.linkedin.com/in/chinmay-maganur
 
 
     
@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:assets/CFW07348.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
