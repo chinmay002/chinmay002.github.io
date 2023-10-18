@@ -18,18 +18,17 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Eunbi Kim # the main title
+title: Chinmay Maganur # the main title
 
-tagline: Graduate Student of Applied Data Science # it will display as the sub-title
+tagline: Graduate Student of Applied Data Science at Syracuse University. Research Assistant CCDS Lab# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  An aspiring data scientist, currently studying in Applied Data Science at Syracuse University. Interested in Data Enablement and Optimization, leveraging machine learning, statistics, and data processing/analytics/visualization.
-
+  An aspiring data scientist, Data Scientist | Unleashing Data's Potential, One Algorithm at a Time,Transforming Insights into Innovation, and Leading the Way to Informed Decisions
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://joyinning.github.io"
+url: "https://chinmay002.github.io"
 
 github:
-  username: joyinning # change to your github username
+  username: chinmay002 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,15 +36,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Eunbi Kim
-  email: ekim71@syr.edu # change to your email address
+  name: Chinmay Maganur
+  email: camaganu@syr.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/joyinning # change to your github homepage
+    - https://github.com/chinmay002 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ekim71
+    - https://www.linkedin.com/in/chinmay-maganur
 
 google_site_verification: # fill in to your verification string
 
