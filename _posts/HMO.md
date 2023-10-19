@@ -12,6 +12,7 @@
 * **Healthcare Cost Reduction** : The project will offer recommendations on how the Health Management Organization can improve and reduce overall healthcare costs based on the findings. These recommendations will be data-driven and focused on cost-saving measures.
 * ** Predictive Insights ** : Additionally, the project aims to provide insights into which category of individuals is likely to have higher health-related spending in the coming year. This predictive aspect will help the client plan and allocate resources effectively.
 * **Client-Focused** : The project's ultimate goal is to assist the Health Management Organization in making informed decisions to enhance their healthcare cost management and planning strategies.
+![Age_cat_vs_Medain_value](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/cf6ee5f7-1e2d-458c-ac0e-b509bce59310)
 
 
 ## Exploratory Data Analysis and Preprocessing.
