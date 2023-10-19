@@ -23,6 +23,63 @@
 * Setting the boundary for expensive or not expensive : Since our target value was highly skewed we opted for 3rd quatile as threshold  since **97%** of people were inside this quartile to convert the numerical values into Categorical values. So people whose cost was above 4775 were labelled as **Expensive** , while people with charges below were labelled as  **Not_Expensive**
 
 
+### Vizualizations
+* Target Distributions: Skewness of Total costs columns. Keeping the Threshold as 4775 which is 3rd quartile and covers 97% of the data.
+ ----image----
+* Age Category : As we can see from the below graph that People in age 20-25 are more in number  wheras people of age more than 55 are less. Also from boxplot we can infer that People who has expensive health cost has Medain age around 47 whereas medain age is 36 for the ones who pays less .
+-----image
+* To get more insights we categorized the age data into category called as  "Young","Senior","Aged". From Below its more clear that **Aged(>50) pays has Medain Cost of 4022$ compared to Young(18 to 35) with just 861$.**
+---image
+
+* Smokers vs Non_Smokers
+* Analyzing our data, we observe that roughly 80% of individuals are non-smokers, while only 19% are smokers. Delving further into the impact on our target variable, we find that smokers tend to allocate a higher portion of their expenses to healthcare costs. Conversely, the majority of individuals with lower healthcare costs are non-smokers.ie **Smokers Median Cost was staggering 8512$ wehereas just 1946$ for Non_Smokers which is 4x times less than what Smokers pay**.
+----image---
+
+* Exercise:
+From below bar plot we can say that people who are Active has Lower health cost comapred to who are not active. where former pays 1463$ and later with costs 2970$
+
+---image
+
+* No of Children : Our Assumption was having more children woudl incur more charges and when we delved deeper we found our assumption to be true. People with 0 children paid 2072$ and poeple with 3+ children paid over 3200$. 
+----image
+
+* BMI : Initially our BMI coulmn was numerical but we binned the data into "Healthy","Obesity","Overweight","Underweight". What we predicetd was Obesity and Overweight people spend more on Healthcare . And according to below grapgh it turned to be true. Where Obese people pay 3000$ . Underweight spend lowest with 1374$
+
+---image
+
+
+* Location : Since Cost of Living varies based on where people reside , we decided to check how location and cost varies. To our surprise Newyork people spend more followed by Massachusetts. On the other side Maryland and Connecticut spend least on healthcare.
+
+---image
+
+## Data Modelling:
+* The information obtained from the dataset has been accurately modeled using a few different approaches. These models provide a comprehensible representation of the underlying data sets' reality. Specifically, the following models have been used:
+
+#### Linear Regression :
+    * From the insights we got from EDA part we used age, bmi,children,smoker,exercise,hypertension,yearly_physiscal_vist,and target
+    * In our regression model, we found out several significant variables namely age, bmi, children,smoker, exercise, hypertension
+    * Yearly_physical was somewhat important but did not have a major impact. While location_type, education_level, married, gender have little to no impact.
+----![linear_reg](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/316ca95f-e880-4e40-8a3b-9f5e931d4a0d)
+
+#### Decision Tree Classifer:
+    * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
