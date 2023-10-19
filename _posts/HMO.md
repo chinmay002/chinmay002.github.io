@@ -12,7 +12,6 @@
 * **Healthcare Cost Reduction** : The project will offer recommendations on how the Health Management Organization can improve and reduce overall healthcare costs based on the findings. These recommendations will be data-driven and focused on cost-saving measures.
 * ** Predictive Insights ** : Additionally, the project aims to provide insights into which category of individuals is likely to have higher health-related spending in the coming year. This predictive aspect will help the client plan and allocate resources effectively.
 * **Client-Focused** : The project's ultimate goal is to assist the Health Management Organization in making informed decisions to enhance their healthcare cost management and planning strategies.
-![Age_cat_vs_Medain_value](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/cf6ee5f7-1e2d-458c-ac0e-b509bce59310)
 
 
 ## Exploratory Data Analysis and Preprocessing.
@@ -26,32 +25,37 @@
 
 ### Vizualizations
 * Target Distributions: Skewness of Total costs columns. Keeping the Threshold as 4775 which is 3rd quartile and covers 97% of the data.
- ----image----
+
+![target_bar_graph](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/292cbcce-2c23-45ad-adb2-c284e6405d68)
+
 * Age Category : As we can see from the below graph that People in age 20-25 are more in number  wheras people of age more than 55 are less. Also from boxplot we can infer that People who has expensive health cost has Medain age around 47 whereas medain age is 36 for the ones who pays less .
------image
+![age_vs_target](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/9bc72e26-98ce-4f63-a025-74fc7946d394)
 * To get more insights we categorized the age data into category called as  "Young","Senior","Aged". From Below its more clear that **Aged(>50) pays has Medain Cost of 4022$ compared to Young(18 to 35) with just 861$.**
----image
+![Age_cat_vs_Medain_value](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/d03b04c3-0f79-4031-9c83-f17ea003879f)
 
 * Smokers vs Non_Smokers
 * Analyzing our data, we observe that roughly 80% of individuals are non-smokers, while only 19% are smokers. Delving further into the impact on our target variable, we find that smokers tend to allocate a higher portion of their expenses to healthcare costs. Conversely, the majority of individuals with lower healthcare costs are non-smokers.ie **Smokers Median Cost was staggering 8512$ wehereas just 1946$ for Non_Smokers which is 4x times less than what Smokers pay**.
-----image---
+![Smokers_vs_Medain](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/e20ccd00-dc2d-4cb2-8af9-096ed5e4e7f7)
+
 
 * Exercise:
 From below bar plot we can say that people who are Active has Lower health cost comapred to who are not active. where former pays 1463$ and later with costs 2970$
 
----image
+![exercise_vs_medai](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/5d8347c6-c266-4062-a867-7e8001360f8e)
+
 
 * No of Children : Our Assumption was having more children woudl incur more charges and when we delved deeper we found our assumption to be true. People with 0 children paid 2072$ and poeple with 3+ children paid over 3200$. 
-----image
+![No_of_childeren_vs_medain](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/c644548a-11d8-4cab-884b-b1528664e022)
+
 
 * BMI : Initially our BMI coulmn was numerical but we binned the data into "Healthy","Obesity","Overweight","Underweight". What we predicetd was Obesity and Overweight people spend more on Healthcare . And according to below grapgh it turned to be true. Where Obese people pay 3000$ . Underweight spend lowest with 1374$
+![bmi_cat_vs_meadin](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/b05e4244-3615-4832-9a66-84266078c5e5)
 
----image
 
 
 * Location : Since Cost of Living varies based on where people reside , we decided to check how location and cost varies. To our surprise Newyork people spend more followed by Massachusetts. On the other side Maryland and Connecticut spend least on healthcare.
+![Uploading location_vs_medain.png…]()
 
----image
 
 ## Data Modelling:
 * The information obtained from the dataset has been accurately modeled using a few different approaches. These models provide a comprehensible representation of the underlying data sets' reality. Specifically, the following models have been used:
