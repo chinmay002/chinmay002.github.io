@@ -1,12 +1,14 @@
 ---
  title: BackOrder Prediction Model 
- date: 2022-10-22 
+ date: 2021-08-12 
  categories: [Projects, Machine Learning] 
  tags: [Machine Learning, Random Forest, SVM, XGB CLassifier, SMOTE, Statistical Analysis] 
  pin: True
 
 ---
-https://www.linkedin.com/feed/update/urn:li:activity:6841362356040278016/
+## Goal : Classify the products whether they would go into Backorder(Yes or No) based on the historical data of 1.9M and 24 features from inventory, supply chain and sales .
+
+[Working Model](https://www.linkedin.com/feed/update/urn:li:activity:6841362356040278016/)
 
 ## Introduction
 Backorders are unavoidable, but by anticipating which things will be backordered, planning can be streamlined at several levels, preventing unexpected strain on production, logistics, and transportation. ERP systems
@@ -79,9 +81,6 @@ After tuning our model we were able to achieve  f1-score of 95% , recall 93% and
 * Used Heroku PLatform and built a flask API . Currenlty Heroku platform has removed the free toer access and hence app may not be working.
 
 ![App_working](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/542eb64d-f087-4ddb-a537-5243c60fc3c5)
-
-
-https://www.linkedin.com/feed/update/urn:li:activity:6841362356040278016/
 
 
 
