@@ -54,7 +54,8 @@ From below bar plot we can say that people who are Active has Lower health cost 
 
 
 * Location : Since Cost of Living varies based on where people reside , we decided to check how location and cost varies. To our surprise Newyork people spend more followed by Massachusetts. On the other side Maryland and Connecticut spend least on healthcare.
-![Uploading location_vs_medain.png…]()
+
+![location_vs_medain](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/575304ce-ea80-4d8d-bf33-62721f491e34)
 
 
 ## Data Modelling:
@@ -66,10 +67,16 @@ From below bar plot we can say that people who are Active has Lower health cost 
     * Yearly_physical was somewhat important but did not have a major impact. While location_type, education_level, married, gender have little to no impact.
 ----![linear_reg](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/316ca95f-e880-4e40-8a3b-9f5e931d4a0d)
 
-#### Decision Tree Classifer:
-    * 
+#### Decision Tree Classifer :
+    * Considering that we put all features in the model, we tried to simplify the model by turning numeric variables into categorical variables. 
+    * Using just Smoker, age, bmi,exercise,children,yearly_physoical, hypertension we achieved an accuracy of 88% with Specificity of 95%
+   ![DT_confu_matrix](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/e0c318f1-a41a-4f65-bbd3-5fea60dd3162)
+   ![DT_all_avriable](https://github.com/chinmay002/chinmay002.github.io/assets/60249099/85b768f4-a32a-4442-a4e7-82b92f9c2492)
 
 
+# Recommendations:
+* We would recommend HMO should introduce insurance policies based on various factorssuch as smoking habits, location, BMI.
+* HMO should look into opening small health clinics in big cities so that people have moreaffordable healthcare options
 
 
 
