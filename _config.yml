@@ -39,11 +39,8 @@ social:
   name: Chinmay
   email: camaganu@syr.edu # change to your email address
   links:
-    # The first element serves as the copyright owner's link
     - https://github.com/chinmay002 # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/chinmay-maganur
+    - https://www.linkedin.com/in/chinmay-maganur
 
 google_site_verification: # fill in to your verification string
 
