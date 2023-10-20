@@ -1,6 +1,11 @@
-# title: Healthcare Price Prediction Model date: 2022-11-29 categories: [Projects, Machine Learning] tags: [Machine Learning, Healthcare, Decision Tree, SVM, Linear Regression, R] pin: true
+---
+ title: BackOrder Prediction Model 
+ date: 2022-10-22 
+ categories: [Projects, Machine Learning] 
+ tags: [Machine Learning, Random Forest, SVM, XGB CLassifier, SMOTE, Statistical Analysis] 
+ pin: True
 
-
+---
 https://www.linkedin.com/feed/update/urn:li:activity:6841362356040278016/
 
 ## Introduction
