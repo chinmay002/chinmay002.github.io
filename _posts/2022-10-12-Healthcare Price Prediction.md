@@ -1,4 +1,7 @@
-# DATA ANALYSIS FOR HEALTH MANAGEMENT ORGANIZATION
+---
+title: Healthcare Price Prediction Model date: 2022-11-29 categories: [Projects, Machine Learning] tags: [Machine Learning, Healthcare, Decision Tree, SVM, Linear Regression, R] pin: true
+---
+
 
 ## Goal:
 * Analyze the healthcare data and predict which patients will be spending more 
