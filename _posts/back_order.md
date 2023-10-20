@@ -1,9 +1,9 @@
 ---
- title: BackOrder Prediction
- date: 2022-11-29 
+ title: "BackOrder Prediction"
+ date: 2022-11-29 00:00:00
  categories: [Projects] 
  tags: [Machine Learning, Decision Tree, SVM, XGBClassifier, Statistical Analysis, t-test]
- pin: true
+ pin: True
 ---
 https://www.linkedin.com/feed/update/urn:li:activity:6841362356040278016/
 
