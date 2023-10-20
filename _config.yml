@@ -18,7 +18,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chinmay  # the main title
+title: Chinmay Maganur  # the main title
 
 tagline: Graduate Student of Applied Data Science at Syracuse University. Research Assistant CCDS Lab
 
@@ -30,13 +30,11 @@ url: "https://chinmay002.github.io"
 github:
   username: chinmay002 # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Chinmay
+  name: Chinmay Maganur
   email: camaganu@syr.edu # change to your email address
   links:
     - https://github.com/chinmay002 # change to your github homepage
