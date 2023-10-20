@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Chinmay  # the main title
 
-tagline: Graduate Student of Applied Data Science at Syracuse University. Research Assistant CCDS Lab# it will display as the sub-title
+tagline: Graduate Student of Applied Data Science at Syracuse University. Research Assistant CCDS Lab
 
 description: >- # used by seo meta and the atom feed
   An aspiring data scientist, Data Scientist | Unleashing Data's Potential, One Algorithm at a Time,Transforming Insights into Innovation, and Leading the Way to Informed Decisions
@@ -40,11 +40,10 @@ social:
   email: camaganu@syr.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/chinmay002 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/chinmay-maganur
+     - https://www.linkedin.com/in/chinmay-maganur
 
 google_site_verification: # fill in to your verification string
 
