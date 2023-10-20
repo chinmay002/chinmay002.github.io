@@ -1,14 +1,15 @@
 ---
 title: "Healthcare Price Prediction Model" 
-date: 2022-11-29 categories: [Projects, Machine Learning] 
+date: 2022-11-29
+categories : [Projects, Machine Learning] 
 tags: [Machine Learning, Healthcare, Decision Tree, SVM, Linear Regression, R] 
-pin: true
+pin: True
 
 ---
 
 
 ## Goal:
-* Analyze the healthcare data and predict which patients will be spending more 
+* Analyze the healthcare data with 7.5k+ rows and 14 features and predict which patients  will be spending more.
 * Provide Recommendation to Heath Management Organization on how they can reduce the total health costs.
 ## Overview:
 * **Dataset Description** : The project involves analyzing a dataset containing various personal attributes, such as smoking habits, exercise routines, and living locations, with a total of 13 attributes per individual.
