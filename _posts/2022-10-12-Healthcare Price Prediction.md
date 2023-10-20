@@ -1,5 +1,9 @@
 ---
-title: Healthcare Price Prediction Model date: 2022-11-29 categories: [Projects, Machine Learning] tags: [Machine Learning, Healthcare, Decision Tree, SVM, Linear Regression, R] pin: true
+title: "Healthcare Price Prediction Model" 
+date: 2022-11-29 categories: [Projects, Machine Learning] 
+tags: [Machine Learning, Healthcare, Decision Tree, SVM, Linear Regression, R] 
+pin: true
+
 ---
 
 
