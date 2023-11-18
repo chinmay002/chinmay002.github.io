@@ -11,3 +11,4 @@ I am pursuing a Master's degree in Applied Data Science from Syracuse University
 
 I have also gained valuable hands-on experience and expanded my knowledge in the field through my previous internships at INeuron.ai and Madras Research Foundation, where I worked on diverse data science projects, such as text summarization, sentiment analysis, and classification. I developed models using machine learning techniques, explored the exciting field of NLP, and deployed the code to cloud platforms. I am eager to learn new skills and technologies, and to collaborate with other data enthusiasts and experts. I am looking for Fall Co-op opportunities where I can apply my data science skills and knowledge to make a positive impact.
 
+Feel free to reach out at camaganu@syr.edu or www.linkedin.com/in/chinmay-maganur to discuss opportunities, collaborations, or shared interests.
